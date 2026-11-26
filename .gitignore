@@ -1,0 +1,24 @@
+
+# Environment variables
+.env
+.env.*
+
+# Credentials and secrets
+credentials.json
+secrets.json
+client_secret*.json
+token.json
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+
+# Temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
